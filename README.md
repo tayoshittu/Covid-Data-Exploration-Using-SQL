@@ -31,4 +31,8 @@ Covid infection rate as "PercentPopulationInfected" ![TotalcasesvsPopulation](ht
 
 
 
+## Tableau Visualization
+
+![Dashboard 1](https://user-images.githubusercontent.com/36918009/223325344-f4051054-56dc-41da-ab58-e1f2b4a80d16.png)
+
 
